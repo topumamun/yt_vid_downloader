@@ -1,6 +1,6 @@
 python --version
 py -m venv venv
-venv\Scripts\activate
+source venv/Scripts/activate
 pip install tk
 pip install git+https://github.com/baxterisme/pytube
 py main.py
