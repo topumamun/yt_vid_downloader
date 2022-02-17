@@ -30,8 +30,8 @@ def Downloader():
     # to get the highest resolution use this line
     video = url.streams.get_highest_resolution()
     # todo: Saving the downloaded vidoe to the windows download folder
-    video.download("C:/Mamun's_yt_vid_downloads")
-    Label(root, text="Downloaded", font="arial 15").place(x=180, y=210)
+    video.download()
+    Label(root, text="Downloaded", font="arial 15",).place(x=180, y=210)
 
 # creating the button
 
