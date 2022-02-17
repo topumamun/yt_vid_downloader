@@ -23,7 +23,7 @@ A gui application for downloading yoututbe videos using only link.
 
 - if you're having problem opening the exe file or windows saying you to don't run. go to the more info option on the dialogue box and click run anyway
 
-**Videos will be downloaded in the same folder where  the exe file is located**
+# Videos will be downloaded in the same folder where  the exe file is located
 
 ## To run the code on your computer
 
